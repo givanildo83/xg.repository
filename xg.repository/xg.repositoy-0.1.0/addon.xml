@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="xg.repository" name="XG Repository" version="0.1.0" provider-name="givanildo83">
 	<extension point="xbmc.addon.repository" name="XG Add-on Repository">
 		<info compressed="false">https://raw.githubusercontent.com/givanildo83/xg.repository/master/xg.repository/addons.xml</info>
@@ -13,4 +12,3 @@
 		<platform>all</platform>
 	</extension>
 </addon>
-</addons>
