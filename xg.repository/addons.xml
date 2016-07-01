@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="xg.repository" name="XG Repository" version="0.1.0" provider-name="XG FILMES">
+<addon id="xg.repository" name="XG Repository" version="0.1.0" provider-name="givanildo83">
 	<extension point="xbmc.addon.repository" name="XG Add-on Repository">
 		<info compressed="false">https://github.com/givanildo83/xg.repository/blob/master/xg.repository/addons.xml</info>
 		<checksum>https://github.com/givanildo83/xg.repository/blob/master/xg.repository/addons.xml.md5</checksum>
@@ -14,4 +14,3 @@
 	</extension>
 </addon>
 </addons>
-
