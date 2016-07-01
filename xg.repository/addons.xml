@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="xg.repository" name="XG Repository" version="0.1.0" provider-name="Mafarricos">
+<addon id="xg.repository" name="XG Repository" version="0.1.0" provider-name="XG FILMES">
 	<extension point="xbmc.addon.repository" name="XG Add-on Repository">
-		<info compressed="false">http://raw.github.com/Mafarricos/xg.repository/master/addons.xml</info>
-		<checksum>http://raw.github.com/Mafarricos/xg.repository/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/Mafarricos/xg.repository/master/repo/</datadir>
+		<info compressed="false">https://github.com/givanildo83/xg.repository/blob/master/xg.repository/addons.xml</info>
+		<checksum>https://github.com/givanildo83/xg.repository/blob/master/xg.repository/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/givanildo83/xg.repository/tree/master/xg.repository/repo/xg.repository</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>XG Addon</summary>
@@ -14,3 +14,4 @@
 	</extension>
 </addon>
 </addons>
+
